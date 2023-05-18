@@ -32,35 +32,37 @@ The following packages are required:
    ```
 3. **OpenAI Whisper**
 
-Install OpenAI Whisper using pip:
+   Install OpenAI Whisper using pip:
 
    ```bash
    pip install openai-whisper
    ```
 4. **FFmpeg**
 
-Install FFmpeg on MacOS using Homebrew. 
-If you do not have Homebrew installed, you can do so from the [official website](https://brew.sh/).
+   Install FFmpeg on MacOS using Homebrew. 
+   If you do not have Homebrew installed, you can do so from the [official website](https://brew.sh/).
 
    ```bash
    brew install ffmpeg
    ```
 5. **Streamlit**
 
-Install Streamlit using pip:
+   Install Streamlit using pip:
    ```bash
    pip install streamlit
    ```
+6. **Download the files or Git clone this repo on your machine**
+   Only ```asr_app.py``` and ```run_app.command``` are necessary.
 
-6. **Set the Correct Path in the .command file**
+7. **Set the Correct Path in the .command file**
 
    Modify the .command file (or modify it to any shell script) to set the correct path to your application.
 
-7. **Run the App**
+8. **Run the App**
 
    Double-click the .command file to start the application.
 
-8. **Follow the webpage and upload your .mp3 audio file**
+9. **Follow the webpage and upload your .mp3 audio file**
    And start transcribing!
 
-That's it! Enjoy transcribing your audio files securely on your local browser! 🎉
+   That's it! Enjoy transcribing your audio files securely on your local browser! 🎉
