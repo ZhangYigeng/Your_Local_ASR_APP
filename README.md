@@ -52,6 +52,7 @@ The following packages are required:
    pip install streamlit
    ```
 6. **Download the files or Git clone this repo on your machine**
+
    Only ```asr_app.py``` and ```run_app.command``` are necessary.
 
 7. **Set the Correct Path in the .command file**
