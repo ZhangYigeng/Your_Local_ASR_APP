@@ -10,7 +10,7 @@ This is 100% free 🆓 and your data remains completely secure - **No data is up
 
 ### Prerequisites 
 
-The following packages are required:
+The following dependencies are required:
 
 - Python 3.9
 - OpenAI whisper
@@ -42,6 +42,7 @@ The following packages are required:
 4. **FFmpeg**
 
    Install FFmpeg on MacOS using Homebrew. 
+   
    If you do not have Homebrew installed, you can do so from the [official website](https://brew.sh/).
 
    ```bash
@@ -50,6 +51,7 @@ The following packages are required:
 5. **Streamlit**
 
    Install Streamlit using pip:
+   
    ```bash
    pip install streamlit
    ```
