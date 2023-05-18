@@ -4,6 +4,8 @@ An out-of-the-box automatic speech recognition (ASR) application, designed to ru
 
 This is 100% free 🆓 and your data remains completely secure - **No data is uploaded to the cloud!**
 
+**This project is mainly developed by ChatGPT (GPT-4 Browsing version) under human supervision.**
+
 ## 🚀 Getting Started 
 
 ### Prerequisites 
