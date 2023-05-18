@@ -68,4 +68,5 @@ The following packages are required:
 9. **Follow the webpage and upload your .mp3 audio file**
    And start transcribing!
 
-   That's it! Enjoy transcribing your audio files securely on your local browser! 🎉
+
+That's it! Enjoy transcribing your audio files securely on your local browser! 🎉
