@@ -61,8 +61,10 @@ The following dependencies are required:
 
 7. **Set the Correct Path in the .command file**
 
-   Modify the .command file (or modify it to any shell script) to set the correct path to your application.
-
+   Modify the .command file (or modify it to any shell script) to set the correct path to your application. Grant it appropriate access privileges:
+   ```bash
+   chmod u+x run_app.command
+   ```
 8. **Run the App**
 
    Double-click the .command file to start the application.
