@@ -18,7 +18,7 @@ The following dependencies are required:
 
 ### Installation
 
-#### MacOS:
+#### MacOS as example (very similar steps for Windows and Linux):
 
 1. **Anaconda**
 
